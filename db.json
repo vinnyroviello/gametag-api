@@ -1,0 +1,28 @@
+{ 
+    "videos": [
+        {
+            "id": 1,
+            "titulo": "The Legend of Zelda: Breath of the Wild",
+            "capa": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/ncom/software/switch/70010000000025/7137262b5a64d921e193653f8aa0b722925abc5680380ca0e18a5cfd91697f58",
+            "link": "https://www.youtube.com/embed/zw47_q9wbBE"
+        },
+        {
+            "id": 2,
+            "titulo": "The Legend of Zelda: Tears of the Kingdom",
+            "capa": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_1300/ncom/software/switch/70010000063714/ea2b7333df08b27cb7313d6586838d761755fc8a17b91b17a456c966dc1605cc",
+            "link": "https://www.youtube.com/embed/uHGShqcAHlQ"
+        },
+        {
+            "id": 3,
+            "titulo": "The Legend of Zelda: Link’s Awakening",
+            "capa": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_1300/ncom/software/switch/70010000020033/df825d5fc6747b66b051f5d3ba6a412fe625ea7878b6a10c93bb8312195682b1",
+            "link": "https://www.youtube.com/embed/PtC6U8hOZTk"
+        },
+        {
+            "id": 4,
+            "titulo": "The Legend od Zelda: Skyward Sword HD",
+            "capa": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_1300/ncom/software/switch/70010000038612/63595b0826bb6ece7b95e4eb2a33e5ad0559224b350a5e2974a44f772963ae59",
+            "link": "https://www.youtube.com/embed/r7qozxgX4c8"
+        }
+    ]
+}
